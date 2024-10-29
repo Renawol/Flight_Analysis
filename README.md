@@ -27,16 +27,22 @@ Moreover, we will answer some of the next questions.
 ## Table of contents:
 - Merging the DataFrames
 - General Study
+- Data Modeling
+  - Cities Location
+  - Dates
 - Analysis
   - Does price vary with airlines?
   - Does ticket price change based on the departure time and arrival time?
-  - How the price changes with change in Source and Destination?
+  - How the price changes with change in Source and Destination? (*)
   - Which is the price difference between classes?
   - How are the number of stops and duration related to the price?
 
+> **Note: The final part of this section is a map of the cities we are working with, which may not display correctly in the GitHub preview.* 
 
 ## Achievements
 After data cleaning we exported the following files:
 - flight_data_cleaned.csv: Flights data cleaned
+- flights_dates.csv: Gather all the dates on which the flights took place
+- cities_location.csv: Enumerate all the cities and their latitude and longitude
 - All the images of the graphs generated
-- 
+- As a potential customer of one of these airlines, we have learned which ones are most convenient for us in each situation.
