@@ -27,6 +27,9 @@ Moreover, we will answer some of the next questions.
 ## Table of contents:
 - Merging the DataFrames
 - General Study
+- Data Modeling
+  - Cities Location
+  - Dates
 - Analysis
   - Does price vary with airlines?
   - Does ticket price change based on the departure time and arrival time?
@@ -39,5 +42,7 @@ Moreover, we will answer some of the next questions.
 ## Achievements
 After data cleaning we exported the following files:
 - flight_data_cleaned.csv: Flights data cleaned
+- flights_dates.csv: Gather all the dates on which the flights took place
+- cities_location.csv: Enumerate all the cities and their latitude and longitude
 - All the images of the graphs generated
 - As a potential customer of one of these airlines, we have learned which ones are most convenient for us in each situation.
