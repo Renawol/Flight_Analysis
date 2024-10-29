@@ -30,13 +30,14 @@ Moreover, we will answer some of the next questions.
 - Analysis
   - Does price vary with airlines?
   - Does ticket price change based on the departure time and arrival time?
-  - How the price changes with change in Source and Destination?
+  - How the price changes with change in Source and Destination? (*)
   - Which is the price difference between classes?
   - How are the number of stops and duration related to the price?
 
+> **Note: The final part of this section is a map of the cities we are working with, which may not display correctly in the GitHub preview.* 
 
 ## Achievements
 After data cleaning we exported the following files:
 - flight_data_cleaned.csv: Flights data cleaned
 - All the images of the graphs generated
-- 
+- As a potential customer of one of these airlines, we have learned which ones are most convenient for us in each situation.
