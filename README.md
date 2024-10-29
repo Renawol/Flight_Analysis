@@ -46,3 +46,5 @@ After data cleaning we exported the following files:
 - cities_location.csv: Enumerate all the cities and their latitude and longitude
 - All the images of the graphs generated
 - As a potential customer of one of these airlines, we have learned which ones are most convenient for us in each situation.
+
+🍍
